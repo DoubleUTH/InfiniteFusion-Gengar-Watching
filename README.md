@@ -25,6 +25,8 @@ end
 ```ruby
 @gengarWatching.dispose
 ```
+5. Run the game. Gengar is now permanently watching you.
 
+This should be the final code after the modifications.
 
 <img width="796" height="635" alt="Screenshot 2026-04-20 024624" src="https://github.com/user-attachments/assets/64325234-2703-447a-a51a-e21b52198e41" />
