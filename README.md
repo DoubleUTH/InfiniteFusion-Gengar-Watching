@@ -1,7 +1,7 @@
 # InfiniteFusion-Gengar-Watching
 
 Steps:
-1. Go to the game directory and open "Data/Scripts/003_Game processing/002_Scene_Map.rb" with a text editor
+1. Go to the game directory and open "Data/Scripts/003_Game processing/002_Scene_Map.rb" with a text editor.
 2. Add the following at the end of the file.
 ```ruby
 class GengarWatching
@@ -30,3 +30,6 @@ end
 This should be the final code after the modifications.
 
 <img width="796" height="635" alt="Screenshot 2026-04-20 024624" src="https://github.com/user-attachments/assets/64325234-2703-447a-a51a-e21b52198e41" />
+
+If you want to temporarily hide Gengar, add a single "#" before both lines in step 3 and 4.
+If you want to hide Gengar completely, remove the lines in step 2, 3 and 4.
